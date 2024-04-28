@@ -1,0 +1,90 @@
+# # Pubmed
+# N=19717
+# F=500
+# E=88651
+
+# # CiteSeer
+# N=3327
+# F=3703
+# E=9228
+
+# # Cora
+# N=2708
+# F=1433
+# E=10556
+
+# # Yelp
+# N=716847
+# F=300
+
+# # Flickr
+# N=89250
+# F=500
+# E=899756
+
+# # Corafull
+# N=19793
+# F=8710
+
+# # CoauthorCS
+# N=18333
+# F=6805
+# E=163788
+
+# # WikiCSDataset
+# N=11701
+# F=300
+# E=431726
+
+# # FlickrDataset
+# N=89250
+# F=500
+# E=899756
+
+# # AmazonCoBuyComputer
+# N=13752
+# F=767
+# E=491722
+
+# # AmazonCoBuyPhoto
+# N=7650
+# F=745
+# E=238163
+
+# # CoauthorPhysicsDataset
+# N=34493
+# F=8415
+# E=495924
+
+# # Reddit
+# N=232965
+# F=602
+# E=114615892
+
+# # RomanEmpire
+# N=22662
+# F=300
+# E=65854
+
+# # AmazonRatings
+# N=24492
+# F=300
+# E=186100
+
+# # MinesweeperDataset
+# N=10000
+# F=7
+# E=78804
+
+# # Tolokers
+# N=11758
+# F=10
+# E=1038000
+
+# # Questions
+# N=48921
+# F=301
+# E=307080
+
+# # DBLP
+# N=
